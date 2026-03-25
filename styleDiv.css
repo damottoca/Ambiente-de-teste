@@ -1,0 +1,10 @@
+div{
+    /* PARA ALTERAR DIV É USADO background-color */
+    background-color: aqua;
+
+    /* faz o contorle do tamanho da DIV */
+    /* altera o tamanho horizontal */
+    width: 1000PX;
+    /* altera o tamanho vertical */
+    height: 1000px;
+}
