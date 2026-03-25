@@ -1,0 +1,24 @@
+h1{
+    /* utilizando cor pelo nome */
+    /* color:blue; */
+    /* utilizando cor por valor hexadecimal */
+    /* color: #123231; */
+
+    /* utilizando cor por RGB */
+    color: rgb(0, 0, 0);
+/* altera o tamanho da fonte */
+    font-size: 50px; 
+
+    /* deixa a fonte em negrito */
+    font-weight: bold;
+
+    /* aliha o texto ao centro/esquerdo/direito*/
+    /* text-align: right; */
+    font-family: fantasy;
+}
+
+p{
+color: red;
+font-size: 15px;
+text-align: center;
+}
